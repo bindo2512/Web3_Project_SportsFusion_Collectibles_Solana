@@ -1,3 +1,7 @@
+Home Page:
 
+![screencapture-localhost-3005-2024-03-21-06_40_39](https://github.com/bindo2512/Web3_Project_SportsFusion_Collectibles_Solana/assets/57895319/c75ebdcc-197a-4a87-b10e-e5db46869a4e)
 
-![1](https://github.com/bindo2512/Web3_Project_SportsFusion_Collectibles_Solana/assets/57895319/0da0a06e-42ed-4b9e-bbed-5eb84f2317ec)
+Mint NFT:
+
+Payment:
