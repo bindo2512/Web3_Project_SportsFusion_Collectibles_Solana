@@ -4,29 +4,29 @@ import "../styles/global.css"
 
 const EmailComponent = () => {
     return (
-        <section class="section newsletter" aria-label="newsletter">
-            <div class="container">
+        <section className="section newsletter" aria-label="newsletter">
+            <div className="container">
 
-                <div class="newsletter-card">
+                <div className="newsletter-card">
 
                     <div>
-                        <h3 class="headline-md text-center">Subscribe to Newsletter!</h3>
+                        <h3 className="headline-md text-center">Subscribe to Newsletter!</h3>
 
-                        <p class="body-md card-text text-center">
+                        <p className="body-md card-text text-center">
                             Subscribe to get latest updates and information.
                         </p>
                     </div>
 
-                    <div class="input-wrapper">
+                    <div className="input-wrapper">
                         <input type="email" name="email_address" placeholder="Enter your email :" required
-                            class="input-field"></input>
+                            className="input-field"></input>
 
-                        <button class="btn btn-primary">Subscribe</button>
+                        <button className="btn btn-primary">Subscribe</button>
                     </div>
 
-                    <ion-icon name="mail-open-outline" aria-hidden="true" class="bg-icon bg-icon-1"></ion-icon>
+                    <ion-icon name="mail-open-outline" aria-hidden="true" className="bg-icon bg-icon-1"></ion-icon>
 
-                    <ion-icon name="document-text-outline" aria-hidden="true" class="bg-icon bg-icon-2"></ion-icon>
+                    <ion-icon name="document-text-outline" aria-hidden="true" className="bg-icon bg-icon-2"></ion-icon>
 
                 </div>
 

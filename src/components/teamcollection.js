@@ -32,10 +32,13 @@ import Spurs from '../assets/images/spurs.svg';
 import Raptors from '../assets/images/raptors.svg';
 import Jazz from '../assets/images/jazz.svg';
 import Wizards from '../assets/images/wizards.svg';
+import NBA from '../assets/images/nbalogo.png';
 
 function TeamCollections() {
     return (
         <div className="team-collections-container">
+            <img className="nba-logo" src={NBA} alt="NBA Logo" width="50" height="50" />
+            <br></br>
             <h2>COLLECT AND TRADE NBA TEAM MOMENTS</h2>
             <p>Official Digital Collectible of the NBA</p>
             <div className="teams-grid">

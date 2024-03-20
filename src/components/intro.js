@@ -4,15 +4,15 @@ import Moment from '../assets/images/moment.jpg';
 class IntroComponent extends React.Component {
     render() {
         return (
-            <section class="section hero" aria-label="home">
-                <div class="container">
+            <section className="section hero" aria-label="home">
+                <div className="container">
 
-                    <h1 class="headline-lg hero-title">
+                    <h1 className="headline-lg hero-title">
                         Discover rate
-                        collection <span class="span">Cards & NFTs</span>
+                        collection <span className="span">Cards & NFTs</span>
                     </h1>
 
-                    <p class="section-text body-lg">
+                    <p className="section-text body-lg">
                         We are a huge marketplace dedicated to connecting great artists of all Metalink with their fans
                         and unique
                         token collectors!
